@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ativodade02</string>
+    <string name="pastel">Pastel</string>
+    <string name="preco">R$ 15,90</string>
+    <string name="descricao">Descrição:</string>
+    <string name="texto"> Pastel é um alimento composto por uma massa à base de farinha a que se dá
+        a forma de e um envolope, se recheia e depois se frita por imersão em óleo fervente.
+    </string>
+    <string name="quantidade">Quantidade:</string>
+    <string name="comprar">Comprar</string>
+    <string name="sucesso">Compra realizada com sucesso.</string>
+    <string name="valor">Valor total: R$</string>
+</resources>
